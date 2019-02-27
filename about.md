@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have two blogs: This one and another one at [/food](http://kellyzhang.me/food). This one is for everything that isn't food-related. :-)
 
-### More Information
+### This is not an about me page
 
-A place to include any other types of information that you'd like to include about yourself.
+Please go to [{{site.url}}](the main site) for info about me.
 
-### Contact me
+### Why is your blog so messy rn
 
-[email@domain.com](mailto:email@domain.com)
+I recently made a total change in regards to the formatting and structure of my blog so bear with me pls
