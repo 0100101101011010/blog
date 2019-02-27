@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Kelly's Food Blog
+title: Kelly's Blog
 
 # Name of your site (displayed in the header)
 name: Kelly Zhang
@@ -107,6 +107,9 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+plugins: [jekyll-paginate, jekyll-seo-tag]
+
 
 # Exclude these files from your production _site
 exclude:
