@@ -8,7 +8,7 @@ I have two blogs: This one and another one at [/food](http://kellyzhang.me/food)
 
 ### This is not an about me page
 
-Please go to [{{site.url}}](the main site) for info about me.
+Please go to [the main site]({{site.url}}) for info about me.
 
 ### Why is your blog so messy rn
 
