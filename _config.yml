@@ -2,11 +2,14 @@
 # This file contains configuration flags to customize your site
 #
 
+title: Kelly's Food Blog
+
 # Name of your site (displayed in the header)
 name: Kelly Zhang
 
 # Short bio or description (displayed in the header)
-description: Accounting student who loves to do absolutely anything except accounting
+description: >- # this means to ignore newlines until "baseurl:"
+  Accounting student who loves to do absolutely anything except accounting
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -31,10 +34,23 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+# Comments
+disqus: yes
+disqus-shortname: webjeda-demo
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+#social
+# facebook: http://facebook.com/webjeda
+# quora: http://quora.com/sharathdt
+# twitter: http://twitter.com/@webjeda
+# github: http://github.com/webjeda
+# email: hello@webjeda.com
+#
+# #facebook like box
+# fb-like-box: yes
+# fb-app-id: 549480635219583
+# fb-page-url: https://www.facebook.com/webjeda/
+# fb-page-title: webjeda
+
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -54,6 +70,21 @@ baseurl: "/blog"
 #
 
 permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
+
+#sidebar
+default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+
+#footer
+
+built-by: webjeda
+
+copyright:
+   name: webjeda
+   link: 'http://blog.webjeda.com'
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -70,7 +101,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: compressed
 
 # Use the following plug-ins
 gems:
