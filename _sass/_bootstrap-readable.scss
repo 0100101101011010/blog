@@ -1155,7 +1155,7 @@ hr {
   margin-top: 22px;
   margin-bottom: 22px;
   border: 0;
-  border-top: 5px solid #636261;
+  border-top: 1px solid #eeeeee;
 }
 .sr-only {
   position: absolute;
@@ -4492,6 +4492,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-right {
     font-family: "Exo", monospace;
+    background-color: #d8c3a5;
     font-weight: bold;
     float: right !important;
     margin-right: -15px;
