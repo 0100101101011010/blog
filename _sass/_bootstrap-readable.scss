@@ -3912,8 +3912,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 1;
   color: #333333;
   text-align: center;
-  background-color: #eeeeee;
-  border: 1px solid #dddddd;
+  background-color: #636261;
+  border: 5px solid #636261;
   border-radius: 4px;
 }
 .input-group-addon.input-sm {
@@ -4046,7 +4046,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:focus {
   color: #eae7dc;
   background-color: #d8c3a5;
-  border: 5px solid #636261;
+  border: 1px solid #d8c3a5;
   border-bottom-color: transparent;
   cursor: default;
 }
