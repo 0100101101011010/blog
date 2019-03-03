@@ -3913,7 +3913,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #333333;
   text-align: center;
   background-color: #636261;
-  border: 5px solid #636261;
+  border: 1px solid #dddddd;
   border-radius: 4px;
 }
 .input-group-addon.input-sm {
@@ -4039,7 +4039,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-radius: 4px 4px 0 0;
 }
 .nav-tabs > li > a:hover {
-  border-color: #eeeeee #eeeeee #dddddd;
+  border-color: #636261 #636261 #636261;
 }
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
