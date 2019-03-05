@@ -1459,15 +1459,22 @@ dt {
 dd {
   margin-left: 0;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: left;
     width: 160px;
     clear: left;
     text-align: right;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    // overflow: hidden;
+    // text-overflow: ellipsis;
+    // white-space: nowrap;
   }
   .dl-horizontal dd {
     margin-left: 180px;
@@ -4875,6 +4882,9 @@ a.label:focus {
   position: relative;
   top: -1px;
 }
+
+// LEGEND: EDIT FOOD RECIPE LABELS
+
 .label-default {
   background-color: #ffffff;
 }
@@ -5689,6 +5699,8 @@ button.list-group-item-danger.active:focus {
 .panel-group .panel-footer + .panel-collapse .panel-body {
   border-bottom: 1px solid #dddddd;
 }
+
+// LEGEND: EDIT PANEL COLOURS
 .panel-default {
   border-color: #dddddd;
 }
@@ -6872,4 +6884,12 @@ legend {
 }
 .modal .close {
   color: #333333;
+}
+
+th {
+  text-align: right;
+}
+
+td {
+  text-align: left;
 }
