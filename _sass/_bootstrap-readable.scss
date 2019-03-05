@@ -2273,7 +2273,7 @@ caption {
   text-align: left;
 }
 th {
-  text-align: left;
+  text-align: right;
 }
 .table {
   width: 100%;
@@ -6884,12 +6884,4 @@ legend {
 }
 .modal .close {
   color: #333333;
-}
-
-th {
-  text-align: right;
-}
-
-td {
-  text-align: left;
 }
