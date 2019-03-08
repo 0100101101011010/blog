@@ -1,28 +1,16 @@
----
-layout: compress
---- 
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
   <body>
 
-    {% include header.html %}
+    {% include navigation.html %}
 
-    <div class="container">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <main>
+      {{ content }}
+    </main>
 
     {% include footer.html %}
-    
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
- {% if site.analytics %}{% include analytics.html %}{% endif %}
   </body>
-
 </html>
