@@ -10,9 +10,9 @@ _Above: My first term class schedule in Biotechnology/Chartered Professional Acc
 
 _I took these classes in Fall 2017. While I don't think the content/structure of these courses will have changed much, the textbooks and required materials may be different from what I've written here._
 
-> > <mark>everything might seem ok until you're a month into the term and you realize there's so much shit going on <br>
-> > so don't think it's easy and slack off in september <br>
-> <b>– Crystal Chen, second-year Biotech/Econ</b></mark>
+> everything might seem ok until you're a month into the term and you realize there's so much shit going on
+> so don't think it's easy and slack off in september
+> – Crystal Chen, second-year Biotech/Econ
 
 In this post I'm going to talk about the five courses (plus one lab) I took in 1A:
 
@@ -201,8 +201,8 @@ Double-check and triple-check your reports. I've had marks deducted for stapling
 
 ### Final
 
-> > <mark>Chem lab exams; study every single detail. This is the one case where pure memorization can help you <br>
-> <b>– Shannon Chakma, second-year Biotech/CPA</b></mark>
+> Chem lab exams; study every single detail. This is the one case where pure memorization can help you
+> – Shannon Chakma, second-year Biotech/CPA
 
 All multiple choice but omg, so hard. They'll ask you things you NEVER needed to know for any of the labs, or questions that you just didn't think you would have to study for. You could burn the lab manual into your brain front-to-back and still get screwed by this exam. I don't know if it's worth spending more than a day studying for it.
 
