@@ -42,10 +42,10 @@ Although many suicides take us by surprise, most suicidal people "hint" about th
 
 ## Key takeaways from QPR:
 
-* Don't be afraid to ASK THE **QUESTION**. If in doubt, ask. Don't wait. Be persistent if the person is reluctant to give details. Make sure it's a private setting and encourage the person to talk freely. Confronting someone about suicide can be awkward, but it's important that you do. You can try an indirect approach, like <mark>"Have you ever wished you could go to sleep and never wake up?"</mark> If you really can't bring yourself to ask the question, get someone else to speak to them. But _how you ask is less important than asking._ The only way you should avoid phrasing it is, <mark>"You're not feeling suicidal, *are you?*"</mark> This implies that suicide is something that could never even be considered, and confers a judgmental tone to your question.
-* Use your empathy and willingness to listen to **PERSUADE** someone to rethink their actions and get help. <mark>"Can you promise me to not kill yourself until I find you some help?"</mark>
+* Don't be afraid to ASK THE **QUESTION**. If in doubt, ask. Don't wait. Be persistent if the person is reluctant to give details. Make sure it's a private setting and encourage the person to talk freely. Confronting someone about suicide can be awkward, but it's important that you do. You can try an indirect approach, like _"Have you ever wished you could go to sleep and never wake up?"_ If you really can't bring yourself to ask the question, get someone else to speak to them. But _how you ask is less important than asking._ The only way you should avoid phrasing it is, _"You're not feeling suicidal, *are you?*"_ This implies that suicide is something that could never even be considered, and confers a judgmental tone to your question.
+* Use your empathy and willingness to listen to **PERSUADE** someone to rethink their actions and get help. _"Can you promise me to not kill yourself until I find you some help?"_
 * **REFER** the person to Counselling Services or Health Services. The best thing to do is physically walking the person to the front desk, so you can ensure they stay safe during their crisis.
-* Say <mark>"I want you to live,"</mark> <mark>"I'm on your side,"</mark> and use "we" and "us" so the person doesn't feel so alone.
+* Say _"I want you to live,"_ _"I'm on your side,"_ and use "we" and "us" so the person doesn't feel so alone.
 * Get others involved; ask the person who else they can trust to help. Family, friends, doctor, pastor, etc.
 * Follow-up with the person to show you care about them.
 
