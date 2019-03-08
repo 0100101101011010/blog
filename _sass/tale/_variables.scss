@@ -11,9 +11,9 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$serif-primary: 'Baloo Bhaijaan', monospace;
+$serif-primary: 'Varela Round', monospace;
 $serif-secondary: 'Varela Round', monospace;
-$sans-serif: 'Varela Round', monospace;
+$sans-serif: 'Baloo Bhaijaan', monospace;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
