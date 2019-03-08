@@ -8,6 +8,7 @@ body {
   color: $default-color;
   margin: 0;
   padding: 0;
+  background-color: #eae7dc;
 }
 
 html {
@@ -30,13 +31,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
-  font-family: $bodyfont;
   line-height: normal;
 }
 
 a {
-  color: $blue;
+  color: #e85a4f;
   text-decoration: none;
 }
 
