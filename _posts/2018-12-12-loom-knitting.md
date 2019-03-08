@@ -8,7 +8,7 @@ tags: [widtw]
 
 ![my first loom knitting project: hat and scarf set](/blog/images/loomknitscarfhat.jpg){: width="40%"}{: .image-left}
 
-On a whim I got a 36-peg knitting loom (how I got it is a really long story <span class="spoiler">but mouseover for the explanation... <span>looking for sublets in Toronto for my upcoming co-op → someone suggests me to use an FB page called "[Bunz Home Zone](https://www.facebook.com/groups/bunzhomezone/)" and I'm like wtf is Bunz → find out it's a really popular trading app (kinda like the buy/sell groups but focusing on trading items rather than monetary exchange) → this is cool! I download it so I can list some of my old clothes and hopefully get rid of some of them → someone messages me about trading for one of my items → take a look on their profile and they have a loom → flashback to my previous failed attempts at knitting and contemplate my long-repressed inner desire to finally knit something nice → and that's how I ~~met your mother~~ started on my loom knitting story!</span></span>) a few weeks ago and have really gotten into knitting with it since then.
+On a whim I got a 36-peg knitting loom (how I got it is a really long story) a few weeks ago and have really gotten into knitting with it since then.
 
 I think there are a lot of reasons I like knitting with a loom:
 
