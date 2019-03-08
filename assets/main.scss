@@ -3,3 +3,105 @@
 ---
 
 @import 'tale';
+
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Varela+Round');
+
+a {
+  color: #e85a4f;
+}
+
+a:hover {
+  color: #e98074;
+  /* border-bottom: none; */
+}
+
+.boxed-in {
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+blockquote {
+  margin: 10px 20px 10px;
+  padding: 0px 15px;
+  border-left: 0.25em solid #ccc;
+  background-color: #d8c3af;
+  line-height: 1.5;
+}
+
+body {
+  background-color: #eae7dc;
+  color: #636261;
+  font-family: 'Varela Round', monospace;
+  font-size: 16px;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Baloo Bhaijaan', monospace;
+  font-style: bold;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: 'Varela Round', monospace;
+  font-weight: 700;
+
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Varela Round', monospace;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: 'Varela Round', monospace;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 16px;
+  font-family: 'Varela Round', monospace;
+  font-weight: 700;
+}
+
+h6 {
+  font-size: 14px;
+  font-family: 'Varela Round', monospace;
+  font-weight: 700;
+}
+
+hr {
+  border-top: 1px solid #8e8d8a;
+}
+
+.btn {
+  background-color: #d8c3a5;
+  font-weight:700;
+}
+
+.contained {
+  padding: 20px;
+  max-width: 800px;
+}
+
+.label {
+  font-size: 12px;
+}
+
+/* this one's for my lil copyright at the bottom-right */
+.fixx {
+  position:fixed;
+  bottom: 0;
+  right: 0;
+  width:90px;
+
+}
