@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 categories:
 tags: [uw, biotechcpa]
 ---
-![My 1A class schedule at UW (Biotechnology/Chartered Professional Accountancy)](/blog/assets/img/1Aschedule.jpg){: width="100%"}{: .image-left}
+![My 1A class schedule at UW (Biotechnology/Chartered Professional Accountancy)](/blog/images/1Aschedule.jpg){: width="100%"}{: .image-left}
 _Above: My first term class schedule in Biotechnology/Chartered Professional Accountancy at the University of Waterloo. CHEM 120 TUT and CHEM 120L took place every other week._
 
 _I took these classes in Fall 2017. While I don't think the content/structure of these courses will have changed much, the textbooks and required materials may be different from what I've written here._
@@ -216,7 +216,7 @@ Some of the labs were fun but others were a lot of, measure 10 mL of this soluti
 * Goggles
 * Lab coat
 
-![uwaterloo lab goggles](/blog/assets/img/labgoggles.jpg){: width="30%"}{: .image-left}
+![uwaterloo lab goggles](/blog/images/labgoggles.jpg){: width="30%"}{: .image-left}
 only full wrap-around goggles like these ones are accepted for first-year chem labs
 
 The lab manual and goggles are mandatory. If you're a science student, you'll receive a pair of goggles in your orientation pack. Lab coat isn't required, but it looks cool and makes you feel like a Real Scientist, so why not!!

@@ -15,7 +15,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Madrid. Reviewed on 01/21.
 
-  ![de nuestra tierra spanish sheep milk yogurt](/blog/assets/img/denuestratierra01.jpg){:width="30%"}{: .image-left} ![de nuestra tierra spanish sheep milk yogurt](/blog/assets/img/denuestratierra02.jpg){:width="30%"}{: .image-left}
+  ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra01.jpg){:width="30%"}{: .image-left} ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra02.jpg){:width="30%"}{: .image-left}
 
   I had to google what "oveja" means, and apparently it's Spanish for "sheep." When was the last time you had _sheep milk yogurt_? It tasted great. I can't describe _how_ it's different from normal yogurt, exactly, but that you can definitely tell it's something else. Perfect amount of sugar added. Creamy beyond belief.
 
@@ -25,7 +25,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Madrid. Reviewed on 01/22.
 
-  ![danone spanish yogurt](/blog/assets/img/danone.jpg){: width="30%"}{: .image-left}
+  ![danone spanish yogurt](/blog/images/danone.jpg){: width="30%"}{: .image-left}
 
   The facts that, 1) I've had bad experiences with Danone and 2) there were _minions_ decorating the label of this cup, should've sent me screaming down the aisle in the opposite direction, but unfortunately I was tricked by the labelling which claimed it was "Macedonia" flavour. My curiosity was piqued instantly. What did "Macedonia" flavour even mean? How could yogurt taste like an entire region in Southeastern Europe? Certainly we did not have this flavour back home, so I bought it and gave it a try.
 
@@ -35,7 +35,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/25.
 
-  ![yosoi italian soygurt](/blog/assets/img/yosoi01.jpg){: width="30%"}{: .image-left} ![yosoi italian soygurt](/blog/assets/img/yosoi02.jpg){: width="30%"}{: .image-left}
+  ![yosoi italian soygurt](/blog/images/yosoi01.jpg){: width="30%"}{: .image-left} ![yosoi italian soygurt](/blog/images/yosoi02.jpg){: width="30%"}{: .image-left}
 
   Soygurt with real blackberries! How much better can you get? It was on the sweet side, and there were lots of blackberry seeds—like a massage for my tongue. Pretty runny compared to the North American varieties of soygurt I've encountered, but that's a characteristic I've noticed in most of the yogurt here, soy or not.
 
@@ -43,7 +43,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/27.
 
-  ![giglio italian yogurt](/blog/assets/img/giglio01.jpg){: width="20%"}{: .image-left}![giglio italian yogurt](/blog/assets/img/giglio02.jpg){: width="20%"}{: .image-left}
+  ![giglio italian yogurt](/blog/images/giglio01.jpg){: width="20%"}{: .image-left}![giglio italian yogurt](/blog/images/giglio02.jpg){: width="20%"}{: .image-left}
 
   Giglio didn't make much of an impression on me. It tasted fine, yeah, but nothing stood out. As you can see by my crappy unwrapping job, the tinfoil lid is a pain to yank off. I'd still eat it over most brands available here at the Canadian grocery stores any day.
 
@@ -51,9 +51,9 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/27.
 
-  ![soia italian soygurt](/blog/assets/img/soia01.jpg){: width="20%"}{: .image-left}
-  ![soia italian soygurt](/blog/assets/img/soia02.jpg){: width="20%"}{: .image-left}
-  ![soia italian soygurt](/blog/assets/img/soia03.jpg){: width="20%"}{: .image-left}
+  ![soia italian soygurt](/blog/images/soia01.jpg){: width="20%"}{: .image-left}
+  ![soia italian soygurt](/blog/images/soia02.jpg){: width="20%"}{: .image-left}
+  ![soia italian soygurt](/blog/images/soia03.jpg){: width="20%"}{: .image-left}
 
   I prefer this soygurt over the Yosoi. The taste is similar, but it's a bit smoother and thicker. It made for a satisfying start to a busy day. I wonder what happened to American soygurt? It seems to have vanished off the store shelves recently.
 
@@ -61,7 +61,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/28.
 
-  ![agrilanga italian yogurt](/blog/assets/img/agrilanga01.jpg){: width="30%"}{: .image-left}
+  ![agrilanga italian yogurt](/blog/images/agrilanga01.jpg){: width="30%"}{: .image-left}
 
   One of those fruit-at-the-bottom varieties... although in Italy, the fruit/jam is usually found at the top of the cup lol. This particular brand had a perfect ratio of jam to yogurt; it's not as sweet as most of the other yogurts I had on this trip, but makes up for it in creaminess factor. It's thick and sticky and you can absolutely taste the shit-ton of milk that doubtless went into making this. Comes in a cute little glass container reminiscent of the De Nuestra Tierra cup.
 
@@ -69,8 +69,8 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/29.
 
-  ![caseificio val d'aveto italian yogurt](/blog/assets/img/caseificiovaldaveto01.jpg){: width="30%"}{: .image-left}
-  ![caseificio val d'aveto italian yogurt](/blog/assets/img/caseificiovaldaveto02.jpg){: width="30%"}{: .image-left}
+  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto01.jpg){: width="30%"}{: .image-left}
+  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto02.jpg){: width="30%"}{: .image-left}
 
   I know, I know... it looks disgusting... but _SO GOOD_...
 
@@ -80,8 +80,8 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Rome. Reviewed on 01/29.
 
-  ![azienda agricola san maurizio italian yogurt](/blog/assets/img/aziendaagricolasanmaurizio01.jpg){: width="30%"}{: .image-left}
-  ![azienda agricola san maurizio italian yogurt](/blog/assets/img/aziendaagricolasanmaurizio02.jpg){: width="30%"}{: .image-left}
+  ![azienda agricola san maurizio italian yogurt](/blog/images/aziendaagricolasanmaurizio01.jpg){: width="30%"}{: .image-left}
+  ![azienda agricola san maurizio italian yogurt](/blog/images/aziendaagricolasanmaurizio02.jpg){: width="30%"}{: .image-left}
 
   This brand was the closest I got to "North American-style" yogurt. Sweeter than the other varieties I tried, with less of the creamy taste. The consistency was overall more even than other brands as well, probably speaking to a higher gelatin content (I regret not noting the ingredients lists for these things). I liked the flavour of the strawberry one.
 
@@ -89,8 +89,8 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Pisa. Reviewed on 01/30.
 
-  ![yomo & melinda italian yogurt](/blog/assets/img/yomomelinda01.jpg){: width="30%"}{: .image-left}
-  ![yomo & melinda italian yogurt](/blog/assets/img/yomomelinda02.jpg){: width="30%"}{: .image-left}
+  ![yomo & melinda italian yogurt](/blog/images/yomomelinda01.jpg){: width="30%"}{: .image-left}
+  ![yomo & melinda italian yogurt](/blog/images/yomomelinda02.jpg){: width="30%"}{: .image-left}
 
   I bought this for the cheap price (most yogurts in Italy are around €1–€2 for two cups, and this one was €0.69) and the nostalgia. Do you remember when Activia carried the "apples & dates" flavour that mysteriously disappeared a few years ago? It was always my favourite... fuck you, Activia... Anyways, this Yomo thing had apples on it so I decided to try it out. It's not bad, especially at 35¢ a cup. And it did taste like the "apple & dates" Activia yogurt despite having no dates.
 
@@ -98,7 +98,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Pisa. Reviewed on 01/30.
 
-  ![mukki drinkable italian yogurt](/blog/assets/img/mukki01.jpg){: width="30%"}{: .image-left}
+  ![mukki drinkable italian yogurt](/blog/images/mukki01.jpg){: width="30%"}{: .image-left}
 
   This was the last yogurt I bought on the trip, and the only drinkable one. I was not a fan; I thought it tasted weird and not really like blueberries as advertised, but my parents loved it. That's quite odd because neither of them are huge on yogurt. You do you Mom and Dad.
 
