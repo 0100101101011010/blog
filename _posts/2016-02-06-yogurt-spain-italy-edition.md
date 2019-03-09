@@ -33,9 +33,9 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Yosoi (3.5/5 ★)
 
-  Rome. Reviewed on 01/25.
-
   ![yosoi italian soygurt](/blog/images/yosoi01.jpg){: width="30%"}{: .image-left} ![yosoi italian soygurt](/blog/images/yosoi02.jpg){: width="30%"}{: .image-left}
+
+  Rome. Reviewed on 01/25.
 
   Soygurt with real blackberries! How much better can you get? It was on the sweet side, and there were lots of blackberry seeds—like a massage for my tongue. Pretty runny compared to the North American varieties of soygurt I've encountered, but that's a characteristic I've noticed in most of the yogurt here, soy or not.
 
