@@ -41,36 +41,36 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Giglio (3/5 ★)
 
-  Rome. Reviewed on 01/27.
-
   ![giglio italian yogurt](/blog/images/giglio01.jpg){: width="20%"}{: .image-left}![giglio italian yogurt](/blog/images/giglio02.jpg){: width="20%"}{: .image-left}
+
+  Rome. Reviewed on 01/27.
 
   Giglio didn't make much of an impression on me. It tasted fine, yeah, but nothing stood out. As you can see by my crappy unwrapping job, the tinfoil lid is a pain to yank off. I'd still eat it over most brands available here at the Canadian grocery stores any day.
 
 ### Soia (4/5 ★)
 
-  Rome. Reviewed on 01/27.
-
   ![soia italian soygurt](/blog/images/soia01.jpg){: width="20%"}{: .image-left}
   ![soia italian soygurt](/blog/images/soia02.jpg){: width="20%"}{: .image-left}
   ![soia italian soygurt](/blog/images/soia03.jpg){: width="20%"}{: .image-left}
+
+  Rome. Reviewed on 01/27.
 
   I prefer this soygurt over the Yosoi. The taste is similar, but it's a bit smoother and thicker. It made for a satisfying start to a busy day. I wonder what happened to American soygurt? It seems to have vanished off the store shelves recently.
 
 ### AgriLanga (4.5/5 ★)
 
-  Rome. Reviewed on 01/28.
-
   ![agrilanga italian yogurt](/blog/images/agrilanga01.jpg){: width="30%"}{: .image-left}
+
+  Rome. Reviewed on 01/28.
 
   One of those fruit-at-the-bottom varieties... although in Italy, the fruit/jam is usually found at the top of the cup lol. This particular brand had a perfect ratio of jam to yogurt; it's not as sweet as most of the other yogurts I had on this trip, but makes up for it in creaminess factor. It's thick and sticky and you can absolutely taste the shit-ton of milk that doubtless went into making this. Comes in a cute little glass container reminiscent of the De Nuestra Tierra cup.
 
 ### Caseificio Val d'Aveto (4/5 ★)
 
-  Rome. Reviewed on 01/29.
-
   ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto01.jpg){: width="30%"}{: .image-left}
   ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto02.jpg){: width="30%"}{: .image-left}
+
+  Rome. Reviewed on 01/29.
 
   I know, I know... it looks disgusting... but _SO GOOD_...
 
@@ -78,27 +78,27 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Azienda Agricola San Maurizio (2.5/5 ★)
 
-  Rome. Reviewed on 01/29.
-
   ![azienda agricola san maurizio italian yogurt](/blog/images/aziendaagricolasanmaurizio01.jpg){: width="30%"}{: .image-left}
   ![azienda agricola san maurizio italian yogurt](/blog/images/aziendaagricolasanmaurizio02.jpg){: width="30%"}{: .image-left}
+
+  Rome. Reviewed on 01/29.
 
   This brand was the closest I got to "North American-style" yogurt. Sweeter than the other varieties I tried, with less of the creamy taste. The consistency was overall more even than other brands as well, probably speaking to a higher gelatin content (I regret not noting the ingredients lists for these things). I liked the flavour of the strawberry one.
 
 ### Yomo & Melinda (3.5/5 ★)
 
-  Pisa. Reviewed on 01/30.
-
   ![yomo & melinda italian yogurt](/blog/images/yomomelinda01.jpg){: width="30%"}{: .image-left}
   ![yomo & melinda italian yogurt](/blog/images/yomomelinda02.jpg){: width="30%"}{: .image-left}
+
+  Pisa. Reviewed on 01/30.
 
   I bought this for the cheap price (most yogurts in Italy are around €1–€2 for two cups, and this one was €0.69) and the nostalgia. Do you remember when Activia carried the "apples & dates" flavour that mysteriously disappeared a few years ago? It was always my favourite... fuck you, Activia... Anyways, this Yomo thing had apples on it so I decided to try it out. It's not bad, especially at 35¢ a cup. And it did taste like the "apple & dates" Activia yogurt despite having no dates.
 
 ### Mukki (2.5/5 ★)
 
-  Pisa. Reviewed on 01/30.
-
   ![mukki drinkable italian yogurt](/blog/images/mukki01.jpg){: width="30%"}{: .image-left}
+
+  Pisa. Reviewed on 01/30.
 
   This was the last yogurt I bought on the trip, and the only drinkable one. I was not a fan; I thought it tasted weird and not really like blueberries as advertised, but my parents loved it. That's quite odd because neither of them are huge on yogurt. You do you Mom and Dad.
 
