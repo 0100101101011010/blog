@@ -6,7 +6,7 @@ categories:
 tags: [widtw]
 ---
 
-![my first loom knitting project: hat and scarf set](/blog/images/loomknitscarfhat.jpg){: width="40%"}{: .image-left}
+![my first loom knitting project: hat and scarf set](/blog/images/loomknitscarfhat.jpg){: width="40%"}{: .image-right}
 
 On a whim I got a 36-peg knitting loom (how I got it is a really long story) a few weeks ago and have really gotten into knitting with it since then.
 
