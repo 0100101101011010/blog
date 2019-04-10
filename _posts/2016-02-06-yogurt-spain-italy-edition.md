@@ -67,8 +67,8 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Caseificio Val d'Aveto (4/5 ★)
 
-  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto01.jpg){: width="30%"}{: .image-left}
-  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto02.jpg){: width="30%"}{: .image-left}
+  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto01.jpg){: width="30%"}{: .image-right}
+  ![caseificio val d'aveto italian yogurt](/blog/images/caseificiovaldaveto02.jpg){: width="30%"}{: .image-right}
 
   Rome. Reviewed on 01/29.
 
