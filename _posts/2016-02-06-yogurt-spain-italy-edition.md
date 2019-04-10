@@ -49,9 +49,9 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Soia (4/5 ★)
 
-  ![soia italian soygurt](/blog/images/soia01.jpg){: width="20%"}{: .image-left}
-  ![soia italian soygurt](/blog/images/soia02.jpg){: width="20%"}{: .image-left}
-  ![soia italian soygurt](/blog/images/soia03.jpg){: width="20%"}{: .image-left}
+  ![soia italian soygurt](/blog/images/soia01.jpg){: width="20%"}{: .image-right}
+  ![soia italian soygurt](/blog/images/soia02.jpg){: width="20%"}{: .image-right}
+  ![soia italian soygurt](/blog/images/soia03.jpg){: width="20%"}{: .image-right}
 
   Rome. Reviewed on 01/27.
 
