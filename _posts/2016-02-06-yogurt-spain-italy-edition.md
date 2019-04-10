@@ -59,7 +59,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### AgriLanga (4.5/5 ★)
 
-  ![agrilanga italian yogurt](/blog/images/agrilanga01.jpg){: width="30%"}{: .image-left}
+  ![agrilanga italian yogurt](/blog/images/agrilanga01.jpg){: width="30%"}{: .image-right}
 
   Rome. Reviewed on 01/28.
 
