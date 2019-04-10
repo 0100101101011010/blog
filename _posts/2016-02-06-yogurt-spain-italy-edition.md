@@ -96,7 +96,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
 ### Mukki (2.5/5 ★)
 
-  ![mukki drinkable italian yogurt](/blog/images/mukki01.jpg){: width="30%"}{: .image-left}
+  ![mukki drinkable italian yogurt](/blog/images/mukki01.jpg){: width="30%"}{: .image-right}
 
   Pisa. Reviewed on 01/30.
 
