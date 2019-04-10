@@ -15,7 +15,7 @@ You know what, Southern Europeans have NO IDEA how good they have it because try
 
   Madrid. Reviewed on 01/21.
 
-  ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra01.jpg){:width="30%"}{: .image-left} ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra02.jpg){:width="30%"}{: .image-left}
+  ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra01.jpg){:width="30%"}{: .image-right} ![de nuestra tierra spanish sheep milk yogurt](/blog/images/denuestratierra02.jpg){:width="30%"}{: .image-right}
 
   I had to google what "oveja" means, and apparently it's Spanish for "sheep." When was the last time you had _sheep milk yogurt_? It tasted great. I can't describe _how_ it's different from normal yogurt, exactly, but that you can definitely tell it's something else. Perfect amount of sugar added. Creamy beyond belief.
 
