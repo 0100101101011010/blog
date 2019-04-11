@@ -212,7 +212,7 @@ Some of the labs were fun but others were a lot of, measure 10 mL of this soluti
 
 ### Textbooks and Materials:
 
-![uwaterloo lab goggles](/blog/images/labgoggles.jpg){: width="30%"}{: .image-left}
+![uwaterloo lab goggles](/blog/images/labgoggles.jpg){: width="30%"}{: .image-right}
 only full wrap-around goggles like these ones are accepted for first-year chem labs
 
 * CHEM 120L Lab Manual
