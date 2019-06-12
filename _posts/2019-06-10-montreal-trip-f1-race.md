@@ -17,6 +17,6 @@ Now that we're back in Waterloo where the thermometer is struggling to climb pas
 
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
 
-Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the island of Montreal. The entrance to the circuit is easily accessible, being right next to a subway station, but getting from the entrance to our seats is where the real journey begins. It took us almost an hour to walk to our grandstand
+Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the island of Montreal. The entrance to the circuit is easily accessible, being right next to a subway station, but getting from the entrance to our seats is where the real journey begins. It took us almost an hour to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people walking around. The entire area surrounding the track looks like a fairground, with tents set up all around selling F1 merchandise, food
 
 ## Friday: Free Practice
