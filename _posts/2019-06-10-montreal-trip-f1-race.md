@@ -21,9 +21,19 @@ We traveled by train to Montreal. If you're starting from K–W, like us, you'll
 
 Because of all these transfers, scheduling options can be limited. We had to wake up at 5 am to catch a 5:40 train departing from Kitchener, then transferred to an 8:30 train from Toronto. Because it was so early, there weren't any buses running at the time, but luckily there were a couple of Ubers around.
 
-I was excited to travel on VIA, since I'd only ever ridden the GO train from Toronto to Kitchener and had never been on a longer train ride in Canada. I had a romantic vision of sitting in plush seats, doing some homework or reading, and appreciating the rural scenery outside. Having tried it, I'll tell you now that I wouldn't do it again.
+The great thing about GO is that they are *always* on time. The only time I've heard of them being behind schedule was when a full-on blizzard was tearing through Toronto back in February, and a couple of my coworkers showed up late. It was a clear day when we set out at 5:40, and we showed up to Union Station perfectly on time.
 
+![line-up for via rail train to montreal](/blog/images/via-rail-boarding.jpg){:width="40%"}{: .image-right}
 
+The line up for Montreal was already long when we got to the gate, and it was reminiscent of the boarding area of an airport. Actually, most aspects of VIA Rail would come to remind me of air travel, but I'll get to that later. It looked like the train was near capacity, and we speculated on whether that was because of the upcoming Grand Prix. We saw a few people in the line wearing F1 attire so it's safe to say a good amount of the passengers were there for the race.
+
+I was excited to use VIA, since I'd only ever taken the GO train from Toronto to Kitchener and had never been on a longer train ride in Canada. I had a romantic vision of sitting in plush seats, doing some homework or reading, and appreciating the rural scenery outside. Having tried it, I have to say I wouldn't do it again.
+
+![via rail train seats](/blog/images/via-rail-seats.jpg){:width="50%"}{: .image-right}
+
+My one other long train ride experience took place on an overnight express from Shenzhen to Beijing, which definitely gave me that unrealistic idea of what train travel is like, and I'm sure anyone could tell you that Canada's train infrastructure lags way behind China's. The inside of a VIA coach is more like an airplane than anything else. The seats are a bit bigger than your average airplane seats, but there still isn't a lot of legroom. The tray tables are somehow *smaller* than the ones you can find on a plane, and my tiny Surface Pro barely even fit on the whole thing. The entire trip was as bumpy as a car ride, so we couldn't get any work done.
+
+For most of the journey, I listened to music and drifted in and out of sleep. It's a five-hour ride, but it didn't seem that long because of how woozy I was. The whole time, I'd been feeling a little sick to my stomach because of the bumping and jostling, but not long after we arrived in Montreal in the late afternoon, we were both pretty hungry, since we hadn't eaten all day.
 
 ## Friday: Free Practice
 
