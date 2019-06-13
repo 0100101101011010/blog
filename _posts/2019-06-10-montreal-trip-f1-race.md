@@ -35,9 +35,11 @@ My one other long train ride experience took place on an overnight express from 
 
 For most of the journey, I listened to music and drifted in and out of sleep. It's a five-hour ride, but it didn't seem that long because of how woozy I was. The whole time, I'd been feeling a little sick to my stomach because of the bumping and jostling, but not long after we arrived in Montreal in the late afternoon, we were both pretty hungry, since we hadn't eaten all day.
 
-After dropping things off at our Airbnb, we hit up two popular local spots just a block away. 
+After dropping things off at our Airbnb, we hit up two popular local spots just a block away.
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
+
+Have I mentioned how amazing our Airbnb was? It's an adorable studio apartment on Saint Laurent Blvd, which is known as the "Main Street" of Montreal, in the Mile End district. Every city has one of those artsy, historical neighbourhoods that's full of culture and good food, and Mile End is Montreal's. The weekend we were there, the annual [Mural Festival](https://muralfestival.com) was taking place a few blocks away.
 
 ## Friday: Free Practice
 
