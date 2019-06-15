@@ -57,7 +57,9 @@ Since we were both pretty tired last night, we got up close to noon on Friday an
 
 The only one of two exciting moments of the day was the commentators announcing that Lewis Hamilton had some kind of hydraulic issue with his car, and he retired from the session early. The second one happened when a groundhog made its way onto the track!!
 
-It's a running joke in F1 that Canada is the one race with high risk of wildlife interfering on the track, especially after Romain Grosjean turned on into puree during last year's race in Montreal. ([Warning: blurry but graphic](https://www.reddit.com/r/formula1/comments/8pnh66/grosjean_onboard_hitting_the_animal_plus_team/?st=JI6H0KOG&sh=ea67d0c6))
+![groundhog on f1 track](/blog/images/f1-groundhog.gif){:width="70%"}{: .image-right}
+
+It's a running joke in F1 that Canada is the one race with high risk of wildlife interfering on the track, especially after Romain Grosjean turned one into puree during last year's race in Montreal. ([Warning: blurry but graphic](https://www.reddit.com/r/formula1/comments/8pnh66/grosjean_onboard_hitting_the_animal_plus_team/?st=JI6H0KOG&sh=ea67d0c6)) We were all yelling for this little guy to run off the track, and everyone cheered when he did!
 
 We left soon after practice ended, and met up with my cousin for an early dinner at a hot pot restaurant. We were hoping to make it back to the track at 7 pm to take part in the "Grand Walk," where you can walk around on the track itself.
 
