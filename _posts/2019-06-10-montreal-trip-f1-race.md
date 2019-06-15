@@ -51,8 +51,20 @@ Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenuev
 
 According to everyone in Montreal, the Thursday we arrived was the first day all year that felt like summer, so maybe some of the attendees were just citizens itching to get outdoors for the first time. I'm not sure if every race is this crowded, but all I know is that from Friday to Sunday, the entire area surrounding the circuit was consistently jammed with people.
 
-In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
+In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, as explained by my boyfriend for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
 
-Since we were both pretty tired last night, we got up close to noon on Friday and only made it in time for FP2. We took the subway from Laurier Station to Berri-UQAM, then transferred one stop to Jean-Drapeau.
+Since we were both pretty tired last night, we got up close to noon on Friday and only made it in time for FP2. That was enough for me, tbh. From a fan's perspective, Free Practice is nothing special, although it is one of the first opportunities for us to actually watch the drivers on track. But after an hour and a half of watching drivers lap around, I felt like I'd seen enough.
 
-From a fan's perspective, Free Practice is nothing special, although it is one of the first opportunities for us to actually see the drivers on track.
+The only one of two exciting moments of the day was the commentators announcing that Lewis Hamilton had some kind of hydraulic issue with his car, and he retired from the session early. The second one happened when a groundhog made its way onto the track!!
+
+It's a running joke in F1 that Canada is the one race with high risk of wildlife interfering on the track, especially after Romain Grosjean turned on into puree during last year's race in Montreal. ([Warning: blurry but graphic](https://www.reddit.com/r/formula1/comments/8pnh66/grosjean_onboard_hitting_the_animal_plus_team/?st=JI6H0KOG&sh=ea67d0c6))
+
+We left soon after practice ended, and met up with my cousin for an early dinner at a hot pot restaurant. We were hoping to make it back to the track at 7 pm to take part in the "Grand Walk," where you can walk around on the track itself.
+
+Unfortunately, it turns out this event wasn't included in the basic admission, and you had to have bought an additional ticket for that. I do wish F1 had made this clearer, because neither the schedule nor the tickets we'd bought had mentioned this being an exclusive event. Anyway, although we were kind of frustrated at being turned away at the entrance, we ended up being allowed onto the track after the race on Sunday, so we were able to take part in that experience anyway.
+
+> End of day: 7:30 pm
+> Tired level: 5/10
+> Sunburn Level: 2/10
+
+## Saturday: Qualifying Day
