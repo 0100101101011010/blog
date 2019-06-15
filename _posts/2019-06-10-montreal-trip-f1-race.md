@@ -43,14 +43,16 @@ Have I mentioned how amazing our Airbnb was, btw? It's an adorable studio apartm
 
 We walked through this festival a couple of times throughout the weekend, but never really at "peak times" so I didn't take any photos. [This blog](https://the514lifeblog.wordpress.com/2019/06/10/mural-fest-2019-update-1/) has uploaded pics of many of the artworks on display and also captures the vibe of the festival in general.
 
-## Friday: Free Practice
-
-In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track before racing. Although drivers get plenty of opportunity to do lots of laps, with each FP lasting at least an hour, most will not be on track for the entire time since each team is allowed only a limited number of sets of tires, so they need to save the majority of their tires' lifespans for the Qualifying Sessions and actual race.
-
-Free Practice is nothing really special, although this is one of the first opportunities for us to actually see the drivers on the track, so it's still worth attending.
-
-Since we were both pretty tired last night, we got up close to noon on Friday and
+## Friday: Free Practice Day
 
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
 
-Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the island of Montreal. The entrance to the circuit is easily accessible, being right next to a subway station, but getting from the entrance to our seats is where the real journey begins. It took us almost an hour to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people walking around. The entire area surrounding the track looks like a fairground, with tents set up all around selling F1 merchandise, food
+Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the two little islands to the east of downtown Montreal. The entrance to the circuit is conveniently located next to a subway station, Jean-Drapeau, but getting from the entrance to our seats is where the real journey begins. It took us less than 30 minutes to walk from our Airbnb to Station Jean-Drapeau. It took us *almost an hour* just to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people milling around. The entire area surrounding the track looks like a fairground, with tents set up all around selling food, guidebooks, and F1 merchandise.
+
+According to everyone in Montreal, the Thursday we arrived was the first day all year that felt like summer, so maybe some of the attendees were just citizens itching to get outdoors for the first time. I'm not sure if every race is this crowded, but all I know is that from Friday to Sunday, the entire area surrounding the circuit was consistently jammed with people.
+
+In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
+
+Since we were both pretty tired last night, we got up close to noon on Friday and only made it in time for FP2. We took the subway from Laurier Station to Berri-UQAM, then transferred one stop to Jean-Drapeau.
+
+From a fan's perspective, Free Practice is nothing special, although it is one of the first opportunities for us to actually see the drivers on track.
