@@ -45,6 +45,11 @@ We walked through this festival a couple of times throughout the weekend, but ne
 
 ## Friday: Free Practice
 
+In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track before racing. Although drivers get plenty of opportunity to do lots of laps, with each FP lasting at least an hour, most will not be on track for the entire time since each team is allowed only a limited number of sets of tires, so they need to save the majority of their tires' lifespans for the Qualifying Sessions and actual race.
+
+Free Practice is nothing really special, although this is one of the first opportunities for us to actually see the drivers on the track, so it's still worth attending.
+
+Since we were both pretty tired last night, we got up close to noon on Friday and
 
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
 
