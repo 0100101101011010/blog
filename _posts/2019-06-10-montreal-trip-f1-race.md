@@ -35,11 +35,13 @@ My one other long train ride experience took place on an overnight express from 
 
 For most of the journey, I listened to music and drifted in and out of sleep. It's a five-hour ride, but it didn't seem that long because of how woozy I was. The whole time, I'd been feeling a little sick to my stomach because of the bumping and jostling, but not long after we arrived in Montreal in the late afternoon, we were both pretty hungry, since we hadn't eaten all day.
 
-After dropping things off at our Airbnb, we hit up two popular local spots just a block away.
+After dropping things off at our Airbnb, we hit up two popular local spots just a block away. You can read more about what we ate on my dedicated [Montreal food post](/food/foodventures/what-i-ate-hello-montreal), since this post will be mainly about the logistics of getting around Montreal and the F1 Grand Prix.
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
-Have I mentioned how amazing our Airbnb was? It's an adorable studio apartment on Saint Laurent Blvd, which is known as the "Main Street" of Montreal, in the Mile End district. Every city has one of those artsy, historical neighbourhoods that's full of culture and good food, and Mile End is Montreal's. The weekend we were there, the annual [Mural Festival](https://muralfestival.com) was taking place a few blocks away.
+Have I mentioned how amazing our Airbnb was, btw? It's an adorable studio apartment on Saint Laurent Blvd, which is known as the "Main Street" of Montreal, in the Mile End district. Every city has one of those artsy, historical neighbourhoods that's full of culture and good food, and Mile End is Montreal's. The weekend we were there, the annual [Mural Festival](https://muralfestival.com) was taking place a few blocks away.
+
+We walked through this festival a couple of times throughout the weekend, but never really at "peak times" so I didn't take any photos. [This blog](https://the514lifeblog.wordpress.com/2019/06/10/mural-fest-2019-update-1/) has uploaded pics of many of the artworks on display and also captures the vibe of the festival in general.
 
 ## Friday: Free Practice
 
