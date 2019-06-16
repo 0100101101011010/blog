@@ -23,7 +23,11 @@ I still want to challenge myself and push the limits of loom knitting—my curre
 
 ## Clearing up confusion
 
-Although getting started with knitting (casting on, basic stitches) is easy, going deeper can be rough because of how confusing the terminology is. A typical knitting pattern can include instructions like: <mark>slip the first st (to avoid a hole) and knit 10 sts past the other side of the MT, turn * slip the first st, past the MT and knit 10 sts more than previous turn*, repeat from * - * until 20-14-28-22-16 left mid front.</mark> Tbh, I'm still struggling to decipher patterns myself and I rely on video tutorials a lot. But it's pretty easy to Google the terms you don't know, and doing more simple items like hats and scarves at the beginning and practicing different stitches is the most pain-free way to improve before moving on to complicated patterns.
+Although getting started with knitting (casting on, basic stitches) is easy, going deeper can be rough because of how confusing the terminology is. A typical knitting pattern can include instructions like:
+
+> slip the first st (to avoid a hole) and knit 10 sts past the other side of the MT, turn * slip the first st, past the MT and knit 10 sts more than previous turn*, repeat from * - * until 20-14-28-22-16 left mid front.
+
+Tbh, I'm still struggling to decipher patterns myself and I rely on video tutorials a lot. But it's pretty easy to Google the terms you don't know, and doing more simple items like hats and scarves at the beginning and practicing different stitches is the most pain-free way to improve before moving on to complicated patterns.
 
 Something else I felt overwhelmed by when beginning to knit was all the different kinds of yarn. What do the big numbers on each skein mean? Should I use cotton, wool, polyester, acrylic, or something else for my project? Does more expensive = better quality?
 
