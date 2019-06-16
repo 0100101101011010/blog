@@ -121,7 +121,29 @@ Can you tell I didn't have the best time?
 
 Looking back on it, I'm definitely so glad for the opportunity to go, and probably would again in the future (but splurge on some shaded seats for next time). In the moment, though, it felt rough. To be honest, aside from the first ten or so laps, and the final ten, everything in between was uneventful. Even my boyfriend agreed this was kind of a boring race, up until near the end.
 
-## Race recap
+### Driver's Parade
+
+Just before the race begins, there is one lap where the drivers are driven around in really nice sportscars (not the ones they race in), and wave to the audience and stuff. This was pretty fun, since we get to see the drivers out in the open as they pass by. Did you know there are so many cuties in F1? My personal favourites:
+
+![carlos sainz jr](https://66.media.tumblr.com/cb536ed84220602ef779c7ea4633bdb7/tumblr_oz0dse2DWz1siql9lo2_250.gif){:height="100px"}{: .image-right}
+
+![daniil kvyat](https://66.media.tumblr.com/6a41b22f72f972327b792c9a60dc7eb6/tumblr_pel7rmu9NV1xp24weo1_400.gif){:height="100px"}{: .image-right}
+
+![daniel ricciardo](https://66.media.tumblr.com/5f94379b302c4c400051cc154b5648f7/tumblr_pp8wc1frLI1xt7l2vo1_400.gif){:height="100px"}{: .image-right}
+
+![pierre gasly](https://66.media.tumblr.com/2cf122020bb1a8bc31d1cfc0253359ad/tumblr_pbgre1nY5v1xp24weo1_400.gif){:height="100px"}{: .image-right}
+
+![charles leclerc](https://66.media.tumblr.com/5ebffb1ff3e5b3ad8506b977875b2f9c/tumblr_oz88qnzsgk1wssrvyo1_540.gif){:height="100px"}{: .image-right}
+
+* Carlos Sainz
+* Daniil Kvyat
+* Daniel Ricciardo
+* Pierre Gasly
+* Charles Leclerc
+
+I'm still amazed every day that Charles Leclerc isn't a model (-:
+
+### Race recap
 
 I was hoping for Verstappen (who had a reputation as "Crashstappen" last season) to do some damage as he made his way up from midfield, since he qualified 11th. He did do really well, quickly climbing all the way to 5th, but he was stuck behind Bottas for the remainder of the race and never got close to passing him :-/
 
