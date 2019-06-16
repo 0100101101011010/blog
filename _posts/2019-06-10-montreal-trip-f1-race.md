@@ -54,7 +54,7 @@ We walked through this festival a couple of times throughout the weekend, but ne
 
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
 
-<small>(Most of the empty seats in this photo were taken up closer to the start of the event. During the race, you can bet that every available surface on these grandstands was occupied.)</small>
+<sup>(Most of the empty seats in this photo were taken up closer to the start of the event. During the race, you can bet that every available surface on these grandstands was occupied.)</sup>
 
 Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the two little islands to the east of downtown Montreal. The entrance to the circuit is conveniently located next to a subway station, Jean-Drapeau, but getting from the entrance to our seats is where the real journey begins. It took us less than 30 minutes to walk from our Airbnb to Station Jean-Drapeau. It took us *almost an hour* just to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people milling around. The entire area surrounding the track looks like a fairground, with tents set up all around selling food, guidebooks, and F1 merchandise.
 
