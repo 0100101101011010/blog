@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QPR Training and Mental Health at UW"
+title: QPR Training and Mental Health at UW
 author: "Kelly Zhang"
 categories:
 tags: [uw]
