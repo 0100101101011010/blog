@@ -28,7 +28,9 @@ The great thing about GO is that they are *always* on time. The only time I've h
 
 ![line-up for via rail train to montreal](/blog/images/via-rail-boarding.jpg){:width="40%"}{: .image-right}
 
-The line up for Montreal was already long when we got to the gate, and it was reminiscent of the boarding area of an airport. Actually, most aspects of VIA Rail would come to remind me of air travel, but I'll get to that later. It looked like the train was near capacity, and we speculated on whether that was because of the upcoming Grand Prix. We saw a few people in the line wearing F1 attire so it's safe to say a good amount of the passengers were there for the race.
+The line up for Montreal was already long when we got to the gate, and it was reminiscent of the boarding area of an airport. Actually, most aspects of VIA Rail would come to remind me of air travel, but I'll get to that later.
+
+It looked like the train was near capacity, and we speculated on whether that was because of the upcoming Grand Prix. We saw a few people in the line wearing F1 attire so it's safe to say a good amount of the passengers were there for the race.
 
 I was excited to use VIA, since I'd only ever taken the GO train from Toronto to Kitchener and had never been on a longer train ride in Canada. I had a romantic vision of sitting in plush seats, doing some homework or reading, and appreciating the rural scenery outside. Having tried it, I have to say I wouldn't do it again.
 
