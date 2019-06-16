@@ -51,6 +51,8 @@ Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenuev
 
 According to everyone in Montreal, the Thursday we arrived was the first day all year that felt like summer, so maybe some of the attendees were just citizens itching to get outdoors for the first time. I'm not sure if every race is this crowded, but all I know is that from Friday to Sunday, the entire area surrounding the circuit was consistently jammed with people.
 
+(Learn from our mistakes: I strongly recommend not trying to make your way to the track while the Porsche GT3 Cup Challenge is in progress, or bring earmuffs. Those cars are SO FUCKING LOUD. I literally felt like I was getting ear damage for the entire time I was forced to listen to them. The F1 cars and Ferrari Challenge cars aren't nearly as bad, but I literally wanted to put a mute on life when the GT3s were running.)
+
 In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, as explained by my boyfriend for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
 
 Since we were both pretty tired last night, we got up close to noon on Friday and only made it in time for FP2. That was enough for me, tbh. From a fan's perspective, Free Practice is nothing special, although it is one of the first opportunities for us to actually watch the drivers on track. But after an hour and a half of watching drivers lap around, I felt like I'd seen enough.
@@ -59,7 +61,7 @@ The only one of two exciting moments of the day was the commentators announcing 
 
 ![groundhog on f1 track](/blog/images/f1-groundhog.gif){:width="70%"}{: .image-right}
 
-It's a running joke in F1 that Canada is the one race with high risk of wildlife interfering on the track, especially after Romain Grosjean turned one into puree during last year's race in Montreal. ([Warning: blurry but graphic](https://www.reddit.com/r/formula1/comments/8pnh66/grosjean_onboard_hitting_the_animal_plus_team/?st=JI6H0KOG&sh=ea67d0c6)) We were all yelling for this little guy to run off the track, and everyone cheered when he did!
+It's a running joke in F1 that Canada is the race with the highest risk of wildlife interfering on the track, especially after Romain Grosjean turned one into puree during last year's race in Montreal. ([Warning: blurry but graphic](https://www.reddit.com/r/formula1/comments/8pnh66/grosjean_onboard_hitting_the_animal_plus_team/?st=JI6H0KOG&sh=ea67d0c6)) We were all yelling for this little guy to run off the track, and everyone cheered when he did!
 
 We left soon after practice ended, and met up with my cousin for an early dinner at a hot pot restaurant. We were hoping to make it back to the track at 7 pm to take part in the "Grand Walk," where you can walk around on the track itself.
 
@@ -70,3 +72,19 @@ Unfortunately, it turns out this event wasn't included in the basic admission, a
 > Sunburn Level: 2/10
 
 ## Saturday: Qualifying Day
+
+My experience on Saturday was better than the previous day, since we'd already had some experience getting to and from the track and had some idea of what to expect. There were slightly more people today than yesterday, since today's main event is the Qualifying Session, which is when the pace of a driver's best lap determines which position he will start in during the race. Qualifying is generally regarded as the event where drivers will push the hardest, since their starting position plays a huge role in what they can expect to accomplish during the race.
+
+There are three rounds of Qualifying, known as:
+
+1. Q1: All drivers participate in Q1, which lasts for 18 minutes.
+1. Q2: Only the 15 fastest cars proceed to Q2, while the slower drivers are eliminated. Q2 lasts for 15 minutes due to a smaller number of cars.
+1. Q3. Top 10. This round lasts for 12 minutes.
+
+The unfortunate thing about watching F1 on a nice cloudless day is most of the grandstands don't have shade, so you're just sitting there baking in the sun for *x* hours you want to spend there. There is just very little shade in the park in general, so it's important to bring some kind of long-sleeved shirt or sweater to cover yourself a bit. Believe me, being a little overheated in a
+
+Last night, I noticed that the skin around my collarbone, which I'd forgotten to apply sunscreen to, was lobster red. I made sure that we were well covered in sunscreen this time around, and I reapplied about every 1–2 hours, but the redness persisted and spread to my arms this time. I was actually in a bit of shock, since this is only the second time in my life that I've experienced sunburn (or pre-sunburn?). I started noticing these tiny blood-red spots all over my forearms, where the sun exposure was the most intense. I have no idea what they are, but they only popped up under the sun and most disappeared a day or two later. Maybe they're a symptom of the stress my skin was feeling under all that UV.
+
+On the bright 🌞 side, people I see around campus have been telling me I've gotten so pale ever since we came back from co-op, and finally my tan has been restored! I'm so lucky to tan easily!
+
+## Sunday: Race Day!!!
