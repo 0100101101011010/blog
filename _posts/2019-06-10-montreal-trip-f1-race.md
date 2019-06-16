@@ -82,10 +82,6 @@ We left soon after practice ended, and met up with my cousin for an early dinner
 
 Unfortunately, it turns out this event wasn't included in the basic admission, and you had to have bought an additional ticket for that. I do wish F1 had made this clearer, because neither the schedule nor the tickets we'd bought had mentioned this being an exclusive event. Anyway, although we were kind of frustrated at being turned away at the entrance, we ended up being allowed onto the track after the race on Sunday, so we were able to take part in that experience anyway.
 
-> End of day: 7:30 pm
-> Tired level: 5/10
-> Sunburn Level: 2/10
-
 ## Saturday: Qualifying Day
 
 ### Qualifying Session recap
