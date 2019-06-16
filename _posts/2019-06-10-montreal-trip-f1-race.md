@@ -53,6 +53,8 @@ We walked through this festival a couple of times throughout the weekend, but ne
 
 ## Friday: Free Practice Day
 
+### Finding our way to the circuit
+
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
 
 Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the two little islands to the east of downtown Montreal. The entrance to the circuit is conveniently located next to a subway station, Jean-Drapeau, but getting from the entrance to our seats is where the real journey begins. It took us less than 30 minutes to walk from our Airbnb to Station Jean-Drapeau. It took us *almost an hour* just to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people milling around. The entire area surrounding the track looks like a fairground, with tents set up all around selling food, guidebooks, and F1 merchandise.
@@ -61,9 +63,13 @@ According to everyone in Montreal, the Thursday we arrived was the first day all
 
 (Learn from our mistakes: I strongly recommend not trying to make your way to the track while the Porsche GT3 Cup Challenge is in progress, or bring earmuffs. Those cars are SO FUCKING LOUD. I literally felt like I was getting ear damage for the entire time I was forced to listen to them. The F1 cars and Ferrari Challenge cars aren't nearly as bad, but I literally wanted to put a mute on life when the GT3s were running.)
 
+### F1 Free Practice explained
+
 In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, as explained by my boyfriend for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
 
 Since we were both pretty tired last night, we got up close to noon on Friday and only made it in time for FP2. That was enough for me, tbh. From a fan's perspective, Free Practice is nothing special, although it is one of the first opportunities for us to actually watch the drivers on track. But after an hour and a half of watching drivers lap around, I felt like I'd seen enough.
+
+### Groundhog spotting
 
 The only one of two exciting moments of the day was the commentators announcing that Lewis Hamilton had some kind of hydraulic issue with his car, and he retired from the session early. The second one happened when a groundhog made its way onto the track!!
 
@@ -81,6 +87,8 @@ Unfortunately, it turns out this event wasn't included in the basic admission, a
 
 ## Saturday: Qualifying Day
 
+### Qualifying Session recap
+
 My experience on Saturday was better than the previous day, since we'd already had some experience getting to and from the track and had some idea of what to expect. There were slightly more people today than yesterday, since today's main event is the Qualifying Session, which is when the pace of a driver's best lap determines which position he will start in during the race. Qualifying is generally regarded as the event where drivers will push the hardest, since their starting position plays a huge role in what they can expect to accomplish during the race.
 
 There are three rounds of Qualifying, known as:
@@ -95,10 +103,30 @@ So basically a lot of unexpected things happened, making this a pretty exciting 
 
 ### Please wear sunscreen!
 
-The unfortunate thing about watching F1 on a nice cloudless day is most of the grandstands don't have shade, so you're just sitting there baking in the sun for *x* hours you want to spend there. There is just very little shade in the park in general, so it's important to bring some kind of long-sleeved shirt or sweater to cover yourself a bit. Believe me, being a little overheated because you're wearing too much beats sitting exposed in the relentless sunlight, *I've been there!*
+The unfortunate thing about watching F1 on a nice cloudless day is most of the grandstands don't have shade, so you're just sitting there baking in the sun for *x* hours you want to spend there. There is just very little shade in the park in general, so please check the weather for the weekend before you go.
 
-Last night, I noticed that the skin around my collarbone, which I'd forgotten to apply sunscreen to, was lobster red. I made sure that we were well covered in sunscreen this time around, and I reapplied about every 1–2 hours, but the redness persisted and spread to my arms this time. I started noticing these tiny blood-red spots all over my forearms, where the sun exposure was the most intense. I have no idea what they are, but they only popped up under the sun and most disappeared a day or two later. Maybe they're a symptom of the stress my skin was feeling under all that UV. I'm actually shocked at just how intense the sun that weekend was, since this is only the second time in my life that I've experienced sunburn (or pre-sunburn?), and I used to bask in the sun for hours and hours as a kid with little regard for sunscreen.
+If things look sunny, it's important to bring a hat and some kind of long-sleeved shirt or sweater to cover yourself a bit. Believe me, being a little overheated because you're wearing too much beats sitting exposed in the relentless sunlight, *I've been there!*
 
-On the bright 🌞 side, people I see around campus have been telling me I've gotten so pale ever since we came back from co-op, and finally my tan has been restored! I'm so lucky to tan easily!
+On Friday night, I noticed that the skin around my collarbone, which I'd forgotten to apply sunscreen to, was lobster red. I made sure that we were well covered in sunscreen for Saturday, and I reapplied about every 1–2 hours, but the redness persisted and spread to my arms this time. I started noticing these tiny blood-red spots all over my forearms, where the sun exposure was the most intense. I have no idea what they are, but they only popped up under the sun and most disappeared a day or two later. Maybe they're a symptom of the stress my skin was feeling under all that UV. It seems that SPF 30 sunscreen—what we used—doesn't give enough protection, so next time I would use SPF 50 at least.
+
+I'm actually shocked at just how deadly the sun that weekend was, since this is only the second time in my life that I've experienced sunburn (or pre-sunburn?), and I used to bask in the sun for hours and hours as a kid with little regard for sunscreen.
+
+On the bright 🌞 side, people I see around campus have been telling me I've gotten so pale ever since we came back from co-op, and finally my tan has been restored! I'm so lucky to tan easily.
 
 ## Sunday: Race Day!!!
+
+Ahh race day, how do I begin. On one hand, this was the single event we'd been most looking forward to, and the reason for our entire trip. On the other hand, sitting there in the stands that day was actually hell at some points. Sunday was the hottest day of the weekend, reaching a high of 28 °C, which doesn't sound so bad until you're stuck on a grandstand under a cloudless sky counting down the laps from 70 and hoping for something to end your misery...
+
+Can you tell I didn't have the best time?
+
+Looking back on it, I'm definitely so glad for the opportunity to go, and probably would again in the future (but splurge on some shaded seats for next time). In the moment, though, it felt rough. To be honest, aside from the first ten or so laps, and the final ten, everything in between was uneventful. Even my boyfriend agreed this was kind of a boring race, up until near the end.
+
+## Race recap
+
+I was hoping for Verstappen (who had a reputation as "Crashstappen" last season) to do some damage as he made his way up from midfield, since he qualified 11th. He did do really well, quickly climbing all the way to 5th, but he was stuck behind Bottas for the remainder of the race and never got close to passing him :-/
+
+We were also excited about Daniel Ricciardo, who had qualified 4th, which is pretty impressive in his mid-tier Renault car, but he didn't really do anything noteworthy and ended in 6th, only conceding spots to Bottas and Verstappen.
+
+The first three drivers (Vettel, Hamilton, Leclerc) pulled away from the pack right from the get-go and stayed in those positions for the entire race, although Vettel did kind of screw up under pressure once Hamilton started tailgating him, and spun out onto the grass briefly. This was near the end, and sparked the only bit of controversy in the entire race.
+
+The FIA (F1 governing body) gave Vettel a 5-second penalty for the way he handled his recovery, which endangered the track for Hamilton who was so close behind him. Since Vettel and Hamilton were so close by the end of the race, the five seconds were crucial since that meant Hamilton won the race, even though he came in after Vettel on the track. A lot of fans were unhappy with this (seriously, there were a lot of people repping Mercedes merch that day but you could only hear *BOOS* coming from the grandstands) and even I was disappointed, even though I don't have a strong bias towards either team (and I was even wearing a Mercedes shirt that day lol).
