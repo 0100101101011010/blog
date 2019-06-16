@@ -15,13 +15,19 @@ This weekend, we traveled to Montreal pretty much exclusively to watch the 2019 
 
 Now that we're back in Waterloo where the thermometer is struggling to climb past 20 °C, I'm missing the hot, sunny ice cream weather days in Montreal.
 
-## Thursday: Traveling to Montreal and Settling into our Airbnb
+{: .toc}
+
+## Thursday: Getting to Montreal
 
 We traveled by train to Montreal. If you're starting from K–W, like us, you'll first have to catch a GO train from Kitchener Station to Union Station in Toronto. From there, you can ride the VIA Rail from Toronto straight to Montreal.
 
 Because of all these transfers, scheduling options can be limited. We had to wake up at 5 am to catch a 5:40 train departing from Kitchener, then transferred to an 8:30 train from Toronto. Because it was so early, there weren't any buses running at the time, but luckily there were a couple of Ubers around.
 
+### Taking the GO Train
+
 The great thing about GO is that they are *always* on time. The only time I've heard of them being behind schedule was when a full-on blizzard was tearing through Toronto back in February, and a couple of my coworkers showed up late. It was a clear day when we set out at 5:40, and we showed up to Union Station perfectly on time.
+
+### Traveling by VIA Rail
 
 ![line-up for via rail train to montreal](/blog/images/via-rail-boarding.jpg){:width="40%"}{: .image-right}
 
@@ -34,6 +40,8 @@ I was excited to use VIA, since I'd only ever taken the GO train from Toronto to
 My one other long train ride experience took place on an overnight express from Shenzhen to Beijing, which definitely gave me that unrealistic idea of what train travel is like, and I'm sure anyone could tell you that Canada's train infrastructure lags way behind China's. The inside of a VIA coach is more like an airplane than anything else. The seats are a bit bigger than your average airplane seats, but there still isn't a lot of legroom. The tray tables are somehow *smaller* than the ones you can find on a plane, and my tiny Surface Pro barely even fit on the whole thing. The entire trip was as bumpy as a car ride, so we couldn't get any work done.
 
 For most of the journey, I listened to music and drifted in and out of sleep. It's a five-hour ride, but it didn't seem that long because of how woozy I was. The whole time, I'd been feeling a little sick to my stomach because of the bumping and jostling, but not long after we arrived in Montreal in the late afternoon, we were both pretty hungry, since we hadn't eaten all day.
+
+### Settling into our Airbnb
 
 After dropping things off at our Airbnb, we hit up two popular local spots just a block away. You can read more about what we ate on my dedicated [Montreal food post](/food/foodventures/what-i-ate-hello-montreal), since this post will be mainly about the logistics of getting around Montreal and the F1 Grand Prix.
 
@@ -84,6 +92,8 @@ There are three rounds of Qualifying, known as:
 Sebastian Vettel (driving for Ferrari) took pole for this GP, which was a bit of a shock to most of us since Mercedes have been the clearly dominant team for this entire race. Unfortunately for them, their drivers (Hamilton and Bottas) placed 2nd and 6th respectively, while the second Ferrari driver (Leclerc) would be starting in 3rd. Additionally, Max Verstappen, a driver for another strong team, Red Bull, didn't make it into Q3 which is so uncharacteristic of a really talented driver (although [it wasn't his fault](https://www.formula1.com/en/latest/article.unlucky-verstappen-set-for-tricky-canadian-grand-prix-after-q2-exit.2L7DCtm9cG9jVJKjgNkPLF.html)).
 
 So basically a lot of unexpected things happened, making this a pretty exciting Qualifying to watch, and we all hoped the shakeup from the usual expected starting positions was going to make an interesting race.
+
+### Please wear sunscreen!
 
 The unfortunate thing about watching F1 on a nice cloudless day is most of the grandstands don't have shade, so you're just sitting there baking in the sun for *x* hours you want to spend there. There is just very little shade in the park in general, so it's important to bring some kind of long-sleeved shirt or sweater to cover yourself a bit. Believe me, being a little overheated because you're wearing too much beats sitting exposed in the relentless sunlight, *I've been there!*
 
