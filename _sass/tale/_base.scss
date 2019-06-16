@@ -43,6 +43,17 @@ a {
   text-decoration: none;
 }
 
+button {
+  border-radius: 12px;
+  padding: 5 px;
+  background-color: #d8c3a5;
+}
+
+.btn {
+  font-weight:700;
+
+}
+
 blockquote {
   border-left: .25rem solid $grey-2;
   color: $grey-1;
