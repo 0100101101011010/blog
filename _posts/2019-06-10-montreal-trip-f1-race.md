@@ -78,8 +78,12 @@ My experience on Saturday was better than the previous day, since we'd already h
 There are three rounds of Qualifying, known as:
 
 1. Q1: All drivers participate in Q1, which lasts for 18 minutes.
-1. Q2: Only the 15 fastest cars proceed to Q2, while the slower drivers are eliminated. Q2 lasts for 15 minutes due to a smaller number of cars.
-1. Q3. Top 10. This round lasts for 12 minutes.
+1. Q2: Only the 15 fastest cars proceed to Q2, where they can attempt to better their rankings, while the slower drivers are eliminated with their rankings fixed. Q2 lasts for 15 minutes due to the smaller number of cars.
+1. Q3. Top 10. Some of the more powerful teams (Ferrari, Mercedes, etc.) only pull out the stops for this round, since the previous rounds are more about avoiding elimination than setting the fastest lap. This round lasts for 12 minutes. Whichever driver sets the fastest lap in Q3 gets to start in first, or "pole" position.
+
+Sebastian Vettel (driving for Ferrari) took pole for this GP, which was a bit of a shock to most of us since Mercedes have been the clearly dominant team for this entire race. Unfortunately for them, their drivers (Hamilton and Bottas) placed 2nd and 6th respectively, while the second Ferrari driver (Leclerc) would be starting in 3rd. Additionally, Max Verstappen, a driver for another strong team, Red Bull, didn't make it into Q3 which is so uncharacteristic of a really talented driver (although [it wasn't his fault](https://www.formula1.com/en/latest/article.unlucky-verstappen-set-for-tricky-canadian-grand-prix-after-q2-exit.2L7DCtm9cG9jVJKjgNkPLF.html)).
+
+So basically a lot of unexpected things happened, making this a pretty exciting Qualifying to watch, and we all hoped the shakeup from the usual expected starting positions was going to make an interesting race.
 
 The unfortunate thing about watching F1 on a nice cloudless day is most of the grandstands don't have shade, so you're just sitting there baking in the sun for *x* hours you want to spend there. There is just very little shade in the park in general, so it's important to bring some kind of long-sleeved shirt or sweater to cover yourself a bit. Believe me, being a little overheated because you're wearing too much beats sitting exposed in the relentless sunlight, *I've been there!*
 
