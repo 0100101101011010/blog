@@ -13,8 +13,6 @@ This is Kevin's first time in Montreal, and my second time. The first time, I we
 
 This weekend, we traveled to Montreal pretty much exclusively to watch the 2019 Canadian Grand Prix. My boyfriend is a long time F1 fan, and while I am not, I still wanted to watch a race in person at least once, just to see what it was like. And looking back, I can definitely say: it was worth it! Sure, the days were tiring and hot, we both got sunburned, and at times I wanted to fall asleep... but I am so glad I went. I know I just gave four reasons right there why it shouldn't have been enjoyable at all, but it was still a worthwhile experience. We've also learned a lot from this trip, so hopefully the next time we do something similar, we'll be more prepared.
 
-Now that we're back in Waterloo where the thermometer is struggling to climb past 20 °C, I'm missing the hot, sunny ice cream weather days in Montreal.
-
 {: .toc}
 
 ## Thursday: Getting to Montreal
@@ -156,3 +154,10 @@ The FIA (F1 governing body) gave Vettel a 5-second penalty for the way he handle
 A lot of fans were unhappy with this (seriously, there were a lot of people repping Mercedes merch that day but you could only hear *BOOS* coming from the grandstands) and Vettel himself did not handle coming in second well at all. Even I was disappointed, although I don't have a strong bias towards either team (and I was even wearing a Mercedes shirt that day lol). Mercedes have been performing so well this season that Ferrari somehow has started feeling almost like the underdog, and I guess a lot of people wanted them to win one for once.
 
 The controversy after the race was pretty interesting to sit through and discuss, but I was so tired from sun exposure and heat at that point I wanted nothing more than to go home. Walking back to the station was pretty terrible, packed with people like you'd expect, but at least we were let onto the track to walk back, and we even walked over the spot where Vettel had the slip-up that cost him the race.
+
+## Monday: Leaving Montreal
+
+Bye Montreal! We had to leave too soon, checking out of our Airbnb at 10:30 to catch the VIA train back to Toronto at 11. I'm sad we didn't have time for more attractions, like the Fine Arts Museum or sightseeing around the city. But between the Mural Festival, catching up with my cousin, the Grand Prix, and eating so much delicious food every single day, we squeezed as much as we could into this tiny trip and I'm sure we'll be back in the future to explore the other things in Montreal that we couldn't get to this time!
+
+
+Now that we're back in Waterloo where the thermometer is struggling to climb past 20 °C, I'm missing the hot, sunny ice cream weather days in Montreal. Hopefully Waterloo catches up! I'm feeling nostalgic for those evenings of walking through Blvd Saint Laurent with ice cream cone in hand already.
