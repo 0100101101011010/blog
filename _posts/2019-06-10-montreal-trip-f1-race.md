@@ -124,15 +124,15 @@ Looking back on it, I'm definitely so glad for the opportunity to go, and probab
 
 Just before the race begins, there is one lap where the drivers are driven around in really nice sportscars (not the ones they race in), and wave to the audience and stuff. This was pretty fun, since we get to see the drivers out in the open as they pass by. Did you know there are so many cuties in F1? My personal favourites:
 
-![carlos sainz jr](https://66.media.tumblr.com/cb536ed84220602ef779c7ea4633bdb7/tumblr_oz0dse2DWz1siql9lo2_250.gif){:height="100px"}{: .image-right}
+![carlos sainz jr](https://66.media.tumblr.com/cb536ed84220602ef779c7ea4633bdb7/tumblr_oz0dse2DWz1siql9lo2_250.gif){:height="100 px;"}{: .image-right}
 
 ![daniil kvyat](https://66.media.tumblr.com/6a41b22f72f972327b792c9a60dc7eb6/tumblr_pel7rmu9NV1xp24weo1_400.gif){:height="100px"}{: .image-right}
 
-![daniel ricciardo](https://66.media.tumblr.com/5f94379b302c4c400051cc154b5648f7/tumblr_pp8wc1frLI1xt7l2vo1_400.gif){:height="100px"}{: .image-right}
+![daniel ricciardo](https://66.media.tumblr.com/5f94379b302c4c400051cc154b5648f7/tumblr_pp8wc1frLI1xt7l2vo1_400.gif){:height="100 px;"}{: .image-right}
 
-![pierre gasly](https://66.media.tumblr.com/2cf122020bb1a8bc31d1cfc0253359ad/tumblr_pbgre1nY5v1xp24weo1_400.gif){:height="100px"}{: .image-right}
+![pierre gasly](https://66.media.tumblr.com/2cf122020bb1a8bc31d1cfc0253359ad/tumblr_pbgre1nY5v1xp24weo1_400.gif){:height="100 px;"}{: .image-right}
 
-![charles leclerc](https://66.media.tumblr.com/5ebffb1ff3e5b3ad8506b977875b2f9c/tumblr_oz88qnzsgk1wssrvyo1_540.gif){:height="100px"}{: .image-right}
+![charles leclerc](https://66.media.tumblr.com/5ebffb1ff3e5b3ad8506b977875b2f9c/tumblr_oz88qnzsgk1wssrvyo1_540.gif){:height="100 px;"}{: .image-right}
 
 * Carlos Sainz
 * Daniil Kvyat
