@@ -34,7 +34,7 @@ It looked like the train was near capacity, and we speculated on whether that wa
 
 I was excited to use VIA, since I'd only ever taken the GO train from Toronto to Kitchener and had never been on a longer train ride in Canada. I had a romantic vision of sitting in plush seats, doing some homework or reading, and appreciating the rural scenery outside. Having tried it, I have to say I wouldn't do it again.
 
-![via rail train seats](/blog/images/via-rail-seats.jpg){:width="50%"}{: .image-right}
+![via rail train seats](/blog/images/via-rail-seats.jpg){:width="50%"}{: .image-left}
 
 My one other long train ride experience took place on an overnight express from Shenzhen to Beijing, which definitely gave me that unrealistic idea of what train travel is like, and I'm sure anyone could tell you that Canada's train infrastructure lags way behind China's. The inside of a VIA coach is more like an airplane than anything else. The seats are a bit bigger than your average airplane seats, but there still isn't a lot of legroom. The tray tables are somehow *smaller* than the ones you can find on a plane, and my tiny Surface Pro barely even fit on the whole thing. The entire trip was as bumpy as a car ride, so we couldn't get any work done.
 
