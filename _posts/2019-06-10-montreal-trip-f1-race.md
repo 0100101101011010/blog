@@ -157,6 +157,8 @@ The controversy after the race was pretty interesting to sit through and discuss
 
 ## Monday: Leaving Montreal
 
+![montreal street in mile end area](/blog/images/montreal-1.jpg){:width="100%"}{: .image-right}
+
 Bye Montreal! We had to leave too soon, checking out of our Airbnb at 10:30 to catch the VIA train back to Toronto at 11. I'm sad we didn't have time for more attractions, like the Fine Arts Museum or sightseeing around the city. But between the Mural Festival, catching up with my cousin, the Grand Prix, and eating so much delicious food every single day, we squeezed as much as we could into this tiny trip and I'm sure we'll be back in the future to explore the other things in Montreal that we couldn't get to this time!
 
 
