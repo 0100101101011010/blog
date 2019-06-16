@@ -43,14 +43,11 @@ a {
   text-decoration: none;
 }
 
-button {
+.btn {
   border-radius: 12px;
   background-color: #d8c3a5;
   font-family: $bodyfont;
-}
-
-.btn {
-padding: 15 px;
+  padding: 15 px;
   font-weight:700;
 
 }
