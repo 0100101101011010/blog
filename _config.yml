@@ -66,7 +66,7 @@ BASE_PATH : https://kellyzhang.me/blog
 
 permalink: /:title/
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
 
 
 #sidebar
