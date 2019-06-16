@@ -12,6 +12,7 @@ This is Kevin's first time in Montreal, and my second time. The first time, I we
 
 This weekend, we traveled to Montreal pretty much exclusively to watch the 2019 Canadian Grand Prix. My boyfriend is a long time F1 fan, and while I am not, I still wanted to watch a race in person at least once, just to see what it was like. And looking back, I can definitely say: it was worth it! Sure, the days were tiring and hot, we both got sunburned, and at times I wanted to fall asleep... but I am so glad I went. I know I just gave four reasons right there why it shouldn't have been enjoyable at all, but it was still a worthwhile experience. We've also learned a lot from this trip, so hopefully the next time we do something similar, we'll be more prepared.
 
+* Schedule
 {:toc}
 
 ## Thursday: Getting to Montreal
