@@ -91,11 +91,13 @@ Unfortunately, it turns out this event wasn't included in the basic admission, a
 
 ## Saturday: Qualifying Day
 
-![ferrari driver sebastian vettel followed by mercedes driver lewis hamilton](/blog/images/f1-sebastian-vettel-lewis-hamilton.jpg){:width="100%"}{: .image-right}
-
 ### Qualifying Session recap
 
 My experience on Saturday was better than the previous day, since we'd already had some experience getting to and from the track and had some idea of what to expect. There were slightly more people today than yesterday, since today's main event is the Qualifying Session, which is when the pace of a driver's best lap determines which position he will start in during the race. Qualifying is generally regarded as the event where drivers will push the hardest, since their starting position plays a huge role in what they can expect to accomplish during the race.
+
+
+
+![red bull driver max verstappen](/blog/images/f1-max-verstappen.jpg){:width="100%"}{: .image-right}
 
 There are three rounds of Qualifying, known as:
 
@@ -120,6 +122,8 @@ I'm actually shocked at just how deadly the sun that weekend was, since this is 
 On the bright 🌞 side, people I see around campus have been telling me I've gotten so pale ever since we came back from co-op, and finally my tan has been restored! I'm so lucky to tan easily.
 
 ## Sunday: Race Day!!!
+
+![ferrari driver sebastian vettel followed by mercedes driver lewis hamilton](/blog/images/f1-sebastian-vettel-lewis-hamilton.jpg){:width="100%"}{: .image-right}
 
 Ahh race day, how do I begin. On one hand, this was the single event we'd been most looking forward to, and the reason for our entire trip. On the other hand, sitting there in the stands that day was actually hell at some points. Sunday was the hottest day of the weekend, reaching a high of 28 °C, which doesn't sound so bad until you're stuck on a grandstand under a cloudless sky counting down the laps from 70 and hoping for something to end your misery...
 
@@ -150,6 +154,9 @@ We were also excited about Daniel Ricciardo, who had qualified 4th, which is pre
 The first three drivers (Vettel, Hamilton, Leclerc) pulled away from the pack right from the get-go and stayed in those positions for the entire race, although Vettel did kind of screw up under pressure once Hamilton started tailgating him, and spun out onto the grass briefly. This was near the end, and sparked the only bit of controversy in the entire race.
 
 The FIA (F1 governing body) gave Vettel a 5-second penalty for the way he handled his recovery, which endangered the track for Hamilton who was so close behind him. Since Vettel and Hamilton were so close by the end of the race, the five seconds were crucial since that meant Hamilton won the race, even though he came in after Vettel on the track.
+
+![mercedes lewis hamilton among ferrari flags](/blog/images/f1-lewis-hamilton.jpg){:width="100%"}{: .image-right}
+
 
 A lot of fans were unhappy with this (seriously, there were a lot of people repping Mercedes merch that day but you could only hear *BOOS* coming from the grandstands) and Vettel himself did not handle coming in second well at all. Even I was disappointed, although I don't have a strong bias towards either team (and I was even wearing a Mercedes shirt that day lol). Mercedes have been performing so well this season that Ferrari somehow has started feeling almost like the underdog, and I guess a lot of people wanted them to win one for once.
 
