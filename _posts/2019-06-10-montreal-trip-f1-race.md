@@ -57,8 +57,6 @@ We walked through this festival a couple of times throughout the weekend, but ne
 
 ![f1 marshall on the track](/blog/images/f1-2.jpg){:width="50%"}{: .image-right}
 
-<sup>(Most of the empty seats in this photo were taken up closer to the start of the event. During the race, you can bet that every available surface on these grandstands was occupied.)</sup>
-
 Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenueve, on the two little islands to the east of downtown Montreal. The entrance to the circuit is conveniently located next to a subway station, Jean-Drapeau, but getting from the entrance to our seats is where the real journey begins. It took us less than 30 minutes to walk from our Airbnb to Station Jean-Drapeau. It took us *almost an hour* just to walk to our grandstand, all the while breathing in cigarette smoke and dust kicked up from all the people milling around. The entire area surrounding the track looks like a fairground, with tents set up all around selling food, guidebooks, and F1 merchandise.
 
 According to everyone in Montreal, the Thursday we arrived was the first day all year that felt like summer, so maybe some of the attendees were just citizens itching to get outdoors for the first time. I'm not sure if every race is this crowded, but all I know is that from Friday to Sunday, the entire area surrounding the circuit was consistently jammed with people.
@@ -66,6 +64,8 @@ According to everyone in Montreal, the Thursday we arrived was the first day all
 (Learn from our mistakes: I strongly recommend not trying to make your way to the track while the Porsche GT3 Cup Challenge is in progress, or bring earmuffs. Those cars are SO FUCKING LOUD. I literally felt like I was getting ear damage for the entire time I was forced to listen to them. The F1 cars and Ferrari Challenge cars aren't nearly as bad, but I literally wanted to put life on mute when the GT3s were running.)
 
 ![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
+
+<sup>(Most of the empty seats in this photo were taken up closer to the start of the event. During the race, you can bet that every available surface on these grandstands was occupied.)</sup>
 
 
 
