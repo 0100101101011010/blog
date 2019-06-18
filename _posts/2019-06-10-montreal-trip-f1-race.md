@@ -55,7 +55,7 @@ We walked through this festival a couple of times throughout the weekend, but ne
 
 ### Finding our way to the circuit
 
-![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
+![f1 marshall on the track](/blog/images/f1-2.jpg){:width="50%"}{: .image-right}
 
 <sup>(Most of the empty seats in this photo were taken up closer to the start of the event. During the race, you can bet that every available surface on these grandstands was occupied.)</sup>
 
@@ -63,9 +63,15 @@ Canada's one and only Formula One Grand Prix is held at Circuit Gilles Villenuev
 
 According to everyone in Montreal, the Thursday we arrived was the first day all year that felt like summer, so maybe some of the attendees were just citizens itching to get outdoors for the first time. I'm not sure if every race is this crowded, but all I know is that from Friday to Sunday, the entire area surrounding the circuit was consistently jammed with people.
 
-(Learn from our mistakes: I strongly recommend not trying to make your way to the track while the Porsche GT3 Cup Challenge is in progress, or bring earmuffs. Those cars are SO FUCKING LOUD. I literally felt like I was getting ear damage for the entire time I was forced to listen to them. The F1 cars and Ferrari Challenge cars aren't nearly as bad, but I literally wanted to put a mute on life when the GT3s were running.)
+(Learn from our mistakes: I strongly recommend not trying to make your way to the track while the Porsche GT3 Cup Challenge is in progress, or bring earmuffs. Those cars are SO FUCKING LOUD. I literally felt like I was getting ear damage for the entire time I was forced to listen to them. The F1 cars and Ferrari Challenge cars aren't nearly as bad, but I literally wanted to put life on mute when the GT3s were running.)
+
+![f1 track](/blog/images/f1-1.jpg){:width="100%"}{: .image-right}
+
+
 
 ### F1 Free Practice explained
+
+![alfa romeo driver kimi raikkonen](/blog/images/f1-kimi-raikkonen.jpg){:width="70%"}{: .image-right}
 
 In each Grand Prix, there are three Free Practice events prior to the big day, with the first and second FPs taking place on Friday and the third one on Saturday. A Free Practice, as explained by my boyfriend for uneducated bandwagoners like me, is an opportunity for drivers to get a feel for the track, for teams to run simulations, and for making adjustments to the car. Teams are no longer allowed to make adjustments to the cars post-FP, so they need to take advantage of what they learn during practice to optimize the vehicles for racing conditions.
 
@@ -84,6 +90,8 @@ We left soon after practice ended, and met up with my cousin for an early dinner
 Unfortunately, it turns out this event wasn't included in the basic admission, and you had to have bought an additional ticket for that. I do wish F1 had made this clearer, because neither the schedule nor the tickets we'd bought had mentioned this being an exclusive event. Anyway, although we were kind of frustrated at being turned away at the entrance, we ended up being allowed onto the track after the race on Sunday, so we were able to take part in that experience anyway.
 
 ## Saturday: Qualifying Day
+
+![ferrari driver sebastian vettel followed by mercedes driver lewis hamilton](/blog/images/f1-sebastian-vettel-lewis-hamilton.jpg){:width="100%"}{: .image-right}
 
 ### Qualifying Session recap
 
