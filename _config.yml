@@ -55,16 +55,16 @@ disqus-shortname: webjeda-demo
 google_analytics:
 
 # URL stuff
-baseurl: "/blog"
+baseurl: "/blog/"
 url: "https://kellyzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : https://0100101101011010.github.io/blog
-BASE_PATH : https://kellyzhang.me/blog
+production_url : https://0100101101011010.github.io/blog/
+BASE_PATH : https://kellyzhang.me/blog/
 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: :title/
 paginate: 6
 paginate_path: /page/:num/
 
