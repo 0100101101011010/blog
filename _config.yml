@@ -34,7 +34,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Comments
-disqus: yes
+disqus: no
 disqus-shortname: webjeda-demo
 
 #social
