@@ -43,7 +43,7 @@ For most of the journey, I listened to music and drifted in and out of sleep. It
 
 ### Settling into our Airbnb
 
-After dropping things off at our Airbnb, we hit up two popular local spots just a block away. You can read more about what we ate on my dedicated [Montreal food post](/food/foodventures/what-i-ate-hello-montreal), since this post will be mainly about the logistics of getting around Montreal and the F1 Grand Prix.
+After dropping things off at our Airbnb, we hit up two popular local spots just a block away. You can read more about what we ate on my dedicated [Montreal food post](/food/foodventures/what-i-ate-montreal-edition), since this post will be mainly about the logistics of getting around Montreal and the F1 Grand Prix.
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
