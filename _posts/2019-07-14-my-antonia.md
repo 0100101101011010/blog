@@ -13,6 +13,6 @@ I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore A
 
 It is a book that is just as humble and honest as its protagonists, Jim and Ántonia.
 
-What I loved about this book is how accessible it still is, how readable and engaging, 101 years to the date it was first published. Doesn't that say something about how masterfully Cather captures the childhood experience?
+What I loved about this book is how accessible it still is, how readable and engaging, 101 years to the date it was first published. Doesn't that say something about how masterfully Cather captures the childhood experience, and how timeless that experience can be?
 
 The immigrant part of me can relate to Ántonia and her family, the way the other settlers look mockingly on their foreign foods
