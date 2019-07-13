@@ -9,7 +9,7 @@ published: false
 
 This post isn't so much a review as just a reflection.
 
-I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore worldview-changing themes or put forth worldview-changing ideas? Did it leave me pondering grand, abstract questions regarding the human condition? No.
+I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore ASDF themes or put forth worldview-changing ideas? Did it leave me pondering grand, abstract questions regarding the human condition? No.
 
 It is a book that is just as humble and honest as its protagonists, Jim and Ántonia.
 
