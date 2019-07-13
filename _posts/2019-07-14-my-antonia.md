@@ -8,6 +8,8 @@ tags: [fiction]
 
 This post isn't so much a review as just a reflection.
 
-Does *My Ántonia* explore some ? Does it leave you with earth-shattering revelations on human existence and our place in the world?
+I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore world-changing themes of humanity? Did it leave me pondering grand, abstract questions about human existence and our place in the world?
 
 What I loved about this book is how accessible it still is, how readable and engaging, 101 years to the date it was first published. Doesn't that say something about how masterfully Cather captures the childhood experience?
+
+The immigrant part of me can relate to Ántonia and her family, the way the other settlers look mockingly on their foreign foods
