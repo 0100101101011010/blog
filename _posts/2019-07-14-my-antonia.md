@@ -9,7 +9,7 @@ published: false
 
 This post isn't so much a review as just a reflection.
 
-I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore world-changing themes of humanity? Did it leave me pondering grand, abstract questions about human existence and our place in the world?
+I didn't expect to enjoy this book as much as I did. Did *My Ántonia* explore worldview-changing themes or put forth worldview-changing ideas? Did it leave me pondering grand, abstract questions regarding the human condition?
 
 What I loved about this book is how accessible it still is, how readable and engaging, 101 years to the date it was first published. Doesn't that say something about how masterfully Cather captures the childhood experience?
 
