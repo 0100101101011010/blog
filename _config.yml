@@ -33,10 +33,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-# Comments
-disqus: no
-disqus-shortname: webjeda-demo
-
 #social
 # facebook: http://facebook.com/webjeda
 # quora: http://quora.com/sharathdt
@@ -49,10 +45,6 @@ disqus-shortname: webjeda-demo
 # fb-app-id: 549480635219583
 # fb-page-url: https://www.facebook.com/webjeda/
 # fb-page-title: webjeda
-
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
 
 # URL stuff
 baseurl: "/blog/"
