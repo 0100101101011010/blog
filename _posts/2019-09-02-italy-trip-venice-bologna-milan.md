@@ -14,6 +14,7 @@ published: false
 * Water is fee
 * Pay at counter
 * Lots of restaurants closed in August
+* Restaurants offer you coffee at the end of a meal but this is not Italian tradition https://www.reddit.com/r/italy/comments/1811we/italiani_please_teach_me_how_to_dine_politely_in/
 
 ## Must Buys
 
