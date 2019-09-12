@@ -127,7 +127,7 @@ There's a billion ways your final mark gets calculated, though, so this table is
 
 I still can't decide whether my high school chemistry teacher was so bad that university-level chemistry classes felt easier by comparison, or he was so good at preparing us for university that CHEM 120/123 turned out to be a breeze for me.
 
-If you took chemistry all through high school <small>you don't have to go to class.</small> You don't even need the lecture podcasts, really, if your prof does record them. Study off the course notes and make sure you understand all the Maple-TA questions.
+Anyway, if you took chemistry all through high school this course is gonna be pretty easy. You don't even need the lecture podcasts, really, if your prof does record them. Study off the course notes and make sure you understand all the Maple-TA questions.
 
 ### Online Maple-TA Assignments
 
