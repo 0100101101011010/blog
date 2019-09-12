@@ -125,7 +125,9 @@ The marks breakdown for this course is pretty straightforward:
 
 There's a billion ways your final mark gets calculated, though, so this table isn't set in stone. For example, if you skip all the participation activities (which are usually iClicker questions or LEARN quizzes), that 5% gets added to the weighting for your final. Or if you do better on the final than the average of your midterms, your mark gets bumped up by 1%. Stuff like that. When your final exam is scored, the instructors calculate your grade using all of their different methods and give you the highest one. Anyway, check your syllabus for the grading details.
 
-I feel kind of bad saying this, but if you took chemistry all through high school <small>you don't have to go to class.</small> You don't even need the lecture podcasts, really, if your prof does record them. Study off the course notes and make sure you understand all the Maple-TA questions.
+I still can't decide whether my high school chemistry teacher was so bad that university-level chemistry classes felt easier by comparison, or he was so good at preparing us for university that CHEM 120/123 turned out to be a breeze for me.
+
+If you took chemistry all through high school <small>you don't have to go to class.</small> You don't even need the lecture podcasts, really, if your prof does record them. Study off the course notes and make sure you understand all the Maple-TA questions.
 
 ### Online Maple-TA Assignments
 
