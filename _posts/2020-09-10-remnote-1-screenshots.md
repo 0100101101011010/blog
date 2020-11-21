@@ -26,8 +26,9 @@ Here's my tax course:
 
 These are notes for two of my accounting courses. I would say that these are the courses that benefit most from being able to view the context of each flashcard. See the [flashcard topic](#reviewing-flashcards-in-remnote) below to see why.
 
-![remnote screenshot for financial accounting course](/blog/images/remnote afm 391.PNG){:width="49%"}{: .image-left}
-![remnote screenshot for managerial accounting course](/blog/images/remnote afm 481.PNG){:width="49%"}{: .image-left}
+![remnote screenshot for financial accounting course](/blog/images/remnote afm 391.PNG){:width="100%"}{: .image-left}
+
+![remnote screenshot for managerial accounting course](/blog/images/remnote afm 481.PNG){:width="100%"}{: .image-left}
 
 &nbsp;
 
@@ -43,8 +44,9 @@ Now to be honest, I know next to nothing about LaTeX except that it can make equ
 
 When you actually start reviewing flashcards, you'll notice the cards are a little different from Anki. The names of parent rems are shown to provide some context clues to the current card. For example, if I'm randomly asked this question about a `range of activity levels`, it might take me a while to figure out what concept this is even related to. But because the card provides a clue that it is part of `Cost Behaviour`, I remember fairly quickly that the answer is the `Relevant Range` within which cost behaviour is consistent and predictable.
 
-![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard.PNG){:width="49%"}{: .image-left}
-![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-1.PNG){:width="49%"}{: .image-left}
+![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard.PNG){:width="100%"}{: .image-left}
+
+![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-1.PNG){:width="100%"}{: .image-left}
 
 &nbsp;
 
@@ -56,8 +58,9 @@ Also, notice that you have an option for resizing the card-viewing window.
 
 And you can type what you think is the answer and see how close you are to the correct one:
 
-![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-3.PNG){:width="49%"}{: .image-left}
-![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-4.PNG){:width="49%"}{: .image-left}
+![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-3.PNG){:width="100%"}{: .image-left}
+
+![remnote screenshot for accounting flashcard](/blog/images/remnote flashcard-4.PNG){:width="100%"}{: .image-left}
 
 &nbsp;
 
@@ -95,7 +98,7 @@ This screenshot below isn't from a course I'm taking; rather, it's an ongoing si
 
 While doing assignments, I find it helpful to have all the equations we learned in our statistics course consolidated in one area instead of scattered throughout the document. Something like that is where RemNote's portals come in handy. I use the same convention for all my equations, which is to include the word `formula` somewhere within the name of the rem. I then set a portal to search for all instances of `formula` within my ECON 221 notes page. Voila. It works like an Excel filter that extracts only the rows (in this case, rems) that you need.
 
-![remnote screenshot for statistics economics flashcard](/blog/images/remnote econ 221.PNG){:width="45%"}{: .image-left}
+![remnote screenshot for statistics economics flashcard](/blog/images/remnote econ 221.PNG){:width="100%"}{: .image-left}
 
 &nbsp;
 
@@ -103,4 +106,4 @@ While doing assignments, I find it helpful to have all the equations we learned 
 
 Images are also supported in RemNote! My preferred method of adding them is to simply take a screenshot (snipping tool or `shift`+`cmd`+`S`), paste (`ctrl`+`v`) where I want it to go, and drag the bottom-right corner to resize.
 
-![remnote screenshot for statistics economics flashcard](/blog/images/remnote econ 221-1.PNG){:width="45%"}{: .image-left}
+![remnote screenshot for statistics economics flashcard](/blog/images/remnote econ 221-1.PNG){:width="100%"}{: .image-left}
