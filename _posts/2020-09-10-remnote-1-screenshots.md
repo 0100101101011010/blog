@@ -12,7 +12,7 @@ I switched over from Anki to RemNote because the latter combines two essential f
 
 Below, screenshot for a business ethics course I took which basically involved memorization of terms. Pretty straightforward, similar to how I used to use Anki. You can see that I utilize both front-and-back type rems as well as cloze-deletion rems.
 
-![remnote screenshot for business ethics course](/blog/images/remnote afm 311.jpg){:width="100%"}{: .image-right}
+![remnote screenshot for business ethics course](/blog/images/remnote20%afm20%311.jpg){:width="100%"}{: .image-right}
 
 ## Use Cases for Conceptual Courses
 
