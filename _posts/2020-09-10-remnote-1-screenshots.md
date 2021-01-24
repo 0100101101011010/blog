@@ -8,6 +8,8 @@ tags: [uw]
 
 I switched over from Anki to RemNote because the latter combines two essential features of classroom learning (in my opinion): note-taking and flashcards. I find it very helpful to be able to see the context of a flashcard (ie. where it fits in within the overall course), which is difficult to achieve with Anki. I'm planning to write a mini-series on adopting RemNote and how to get the most out of the program. For the first part, I've compiled some screenshots that I think are representative of how I use Remnote for study. There are definitely other use cases for this website, like a daily journal or a to-do list, but I think note-taking is where it offers something really unique.
 
+If you're interested in signing up for RemNote, you can use my [referral code](https://remnote.io/invite/DEac6qczzfR2j7FFz) to sign up. We'll each receive a free month of RemNote Pro (although it's not necessary. I use the free version of RemNote most of the time and have not found it limiting in any way).
+
 ## Use Cases for Vocabulary and Memorization Heavy Courses
 
 Below, screenshot for a business ethics course I took which basically involved memorization of terms. Pretty straightforward, similar to how I used to use Anki. You can see that I utilize both front-and-back type rems as well as cloze-deletion rems.
